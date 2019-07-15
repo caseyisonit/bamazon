@@ -13,6 +13,6 @@ BAMazon is an Amazon-like storefront with MySql database. The app takes in order
 ### Functionality
 --- 
 
-    ![image of bamazon](/bamazon.gif)
+    ![image of bamazon](bamazon.gif)
     
 
