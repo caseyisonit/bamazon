@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "A node & mySql app that imitates an amazon purchase/inventory database",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caseyisonit/bamazon.git"
+  },
+  "author": "Casey Eickhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caseyisonit/bamazon/issues"
+  },
+  "homepage": "https://github.com/caseyisonit/bamazon#readme",
+  "dependencies": {
+    "inquirer": "^6.5.0",
+    "mysql": "^2.17.1"
+  }
+}
